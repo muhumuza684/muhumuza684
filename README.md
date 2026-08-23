@@ -1,119 +1,48 @@
-# AI Medical App
+# Bryt Ma Tech UG
 
-An AI-powered medical application designed to assist in health analysis, decision support, and improved access to medical insights.
+## Building calmer, safer, more accessible technology from Uganda
 
----
+I build practical software for people who deserve technology that is understandable, protective, and useful on ordinary hardware.
 
-## 🚀 Overview
+### Featured project: Teddy OS
 
-This project focuses on leveraging artificial intelligence to support healthcare-related decision-making. The system is designed to provide intelligent insights based on user input, aiming to improve accessibility, efficiency, and accuracy in medical-related interactions.
+[Teddy OS](https://github.com/muhumuza684/teddy-os) is a lightweight-oriented Linux desktop built around a simple idea:
 
----
+> A computer should explain itself, protect your work, and give every user a clear way forward.
 
-## 🧠 Architecture
+Teddy OS Version 2.1 currently provides:
 
-* Modular and scalable application structure
-* AI/ML-powered decision support system
-* RESTful API integration
-* Secure data handling and validation
+- **Simple Mode** for a calm, focused everyday experience.
+- **Advanced Mode** for users who want the full toolset and terminal access.
+- **Care Mode** for users who need more guidance and fewer distractions.
+- Offline Teddy Help and local editor assistance without an external AI dependency.
+- Document backup and restore through the Teddy Guardian foundation.
+- Safer local password handling with salted PBKDF2 hashing for new users.
+- An automated desktop → rootfs → ISO build pipeline.
+- A separate quality workflow for builds, source checks, and shell validation.
+- BIOS/UEFI ISO production through GitHub Actions.
 
----
+### Engineering principles
 
-## ✨ Features
+I prefer systems that are:
 
-* AI-driven health insights and suggestions
-* User-friendly interface for data input
-* Scalable backend architecture
-* Secure and efficient data processing
+| Principle | Meaning |
+|---|---|
+| **Simple** | The user chooses an outcome instead of navigating technical complexity |
+| **Protective** | Important actions are previewed, confirmed, recoverable, and explained |
+| **Lightweight** | Unnecessary background work is removed and performance is measured |
+| **Accessible** | Visual, spoken, keyboard, and guided paths work together |
+| **Offline-capable** | Core features do not depend on a cloud service or a GPU |
+| **Honest** | Finished features, foundations, and future plans are clearly distinguished |
 
----
+### Current focus
 
-## 🛠 Tech Stack
+The next Teddy OS milestones are a native lightweight desktop shell, a complete Care Mode, task-oriented Simple Mode, stronger document recovery, safe updates with rollback, measured performance reporting, and optional local intelligence that cannot perform destructive actions without explicit confirmation.
 
-* Python / JavaScript
-* [Add your framework e.g., React, Node.js, Django, Flask]
-* [Database e.g., PostgreSQL, MongoDB]
-* AI/ML libraries (e.g., TensorFlow, OpenAI API, etc.)
+### Connect
 
----
+- [Teddy OS repository](https://github.com/muhumuza684/teddy-os)
+- [Teddy OS build workflows](https://github.com/muhumuza684/teddy-os/actions)
+- [Report a Teddy OS issue](https://github.com/muhumuza684/teddy-os/issues)
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/muhumuza684/ai-medical-app.git
-cd ai-medical-app
-npm install
-```
-
----
-
-## 🔑 Environment Variables
-
-Create a `.env` file and add:
-
-```
-API_KEY=your_api_key
-DB_URL=your_database_url
-SECRET_KEY=your_secret_key
-```
-
----
-
-## ▶️ Running the Project
-
-```bash
-npm run dev
-```
-
----
-
-## 📡 API Endpoints
-
-| Method | Endpoint | Description                |
-| ------ | -------- | -------------------------- |
-| POST   | /analyze | Analyze medical input data |
-| GET    | /results | Retrieve analysis results  |
-
----
-
-## 🧪 Testing
-
-```bash
-npm test
-```
-
----
-
-## 📈 Future Improvements
-
-* Integration with real-time medical databases
-* Improved AI model accuracy
-* Mobile application support
-* Enhanced security and compliance features
-
----
-
-## ⚠️ Disclaimer
-
-This application is for informational purposes only and does not replace professional medical advice, diagnosis, or treatment.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome. Feel free to open issues or submit pull requests.
-
----
-
-## 👤 Author
-
-**Muhumuza B**
-
-* GitHub: https://github.com/muhumuza684
-* Email: [muhumuzabright26@gmail.com](mailto:muhumuzabright26@gmail.com)
-* Fiverr: Muhumuza B
-* Upwork: Bright A
-* LinkedIn: muhumuza bright andrew
-
----
-
+**Built by Bryt Ma Tech UG · Uganda**
